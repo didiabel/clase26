@@ -1,0 +1,11 @@
+.colorpicker{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+}
+.input{
+    align-self: center;
+    background-color: coral;
+    padding: 40px;
+    border-radius: 50px;
+}
